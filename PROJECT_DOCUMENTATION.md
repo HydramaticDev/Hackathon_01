@@ -12,7 +12,7 @@ A webpage that showcases information about Julius Caesar.
 
 ## Member Contributions:
 
-### Name 1:
+### Jacob Urbano:
 
 -   Worked on the framework of the webpage and validated page with axedevtools and w3validator.
 
