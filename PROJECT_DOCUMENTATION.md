@@ -8,7 +8,7 @@ A webpage that showcases information about Julius Caesar.
 
 -   Jacob Urbano
 -   Leann Mekler
--   Name 3
+-   Romil Dobariya
 
 ## Member Contributions:
 
@@ -20,6 +20,6 @@ A webpage that showcases information about Julius Caesar.
 
 -   Added paragraph content.
 
-### Name 3:
+### Romil Dobariya:
 
--   Handled [specific sections], covering [specific topics or features].
+-   Handled media part, covering images and video for the web page.
