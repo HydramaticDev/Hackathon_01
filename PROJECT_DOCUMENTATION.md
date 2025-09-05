@@ -14,7 +14,7 @@ A webpage that showcases information about Julius Caesar.
 
 ### Name 1:
 
--   Worked on [specific elements] of the webpage.
+-   Worked on the framework of the webpage and validated page with axedevtools and w3validator.
 
 ### Leann Mekler
 
