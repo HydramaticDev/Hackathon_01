@@ -2,12 +2,12 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+A webpage that showcases information about Julius Caesar.
 
 ## Team Members:
 
 -   Jacob Urbano
--   Name 2
+-   Leann Mekler
 -   Name 3
 
 ## Member Contributions:
@@ -16,9 +16,9 @@
 
 -   Worked on [specific elements] of the webpage.
 
-### Name 2:
+### Leann Mekler
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Added paragraph content.
 
 ### Name 3:
 
